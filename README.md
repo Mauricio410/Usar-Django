@@ -76,10 +76,12 @@ Se recomienda configurarlo antes de crear las migraciones de los modulos.
 ### 1. Gestionar las carpetas donde se alojara nuestro proyecto, en las configuraciones
 Iremos al archivo "settings.py" que se encuentra en la carpetadonde iniciamos nuestro proyecto (Punto 5 de los comandos), una vez alli, iremos al apartado de "INSTALLED_APP", alli siguiendo el formato escribiremos el nombre de las carpetas donde se alojaran nuestro proyecto (Punto 6 de los comandos), recordar poner el nombre exacto de la carpeta.
 
+###
 
+## Empieza con tu proyecto
+Una vez instalado los procesos anteriores hasta el comando 8 y terminado de configurar, empezaremos a crear nuestro proyecto.
 
-
-
+### 1. Primero crearemos nuestra carpeta donde se alojaran nuestros archivos del proyecto, esto se hara en la carpeta donde se guardan los archivos del proyecto normalmente se llamara 'template'.
 
 
 
