@@ -81,8 +81,8 @@ Iremos al archivo "settings.py" que se encuentra en la carpetadonde iniciamos nu
 ## Empieza con tu proyecto
 Una vez instalado los procesos anteriores hasta el comando 8 y terminado de configurar, empezaremos a crear nuestro proyecto.
 
-### 1. Primero crearemos nuestra carpeta donde se alojaran nuestros archivos del proyecto, esto se hara en la carpeta donde se guardan los archivos del proyecto normalmente se llamara 'template'.
-
+### 1. ¿Donde alojar nuestros archivos HTML?
+Primero crearemos nuestra carpeta donde se alojaran nuestros archivos del proyecto, esto se hara en la carpeta donde se guardan los archivos del proyecto normalmente se llamara 'template'.
 
 
 
